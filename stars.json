@@ -1,9 +1,9 @@
 [
   {
     "full_name": "google/styleguide",
-    "stargazers_count": 29192,
-    "open_issues_count": 283,
-    "forks_count": 11472
+    "stargazers_count": 29409,
+    "open_issues_count": 288,
+    "forks_count": 11573
   },
   {
     "full_name": "DevOpsandSRE/tech-resources",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "big-data-europe/docker-hadoop",
-    "stargazers_count": 1486,
-    "open_issues_count": 59,
-    "forks_count": 721
+    "stargazers_count": 1511,
+    "open_issues_count": 62,
+    "forks_count": 751
   },
   {
     "full_name": "Marcel-Jan/docker-hadoop-spark",
-    "stargazers_count": 35,
+    "stargazers_count": 38,
     "open_issues_count": 0,
-    "forks_count": 34
+    "forks_count": 37
   },
   {
     "full_name": "psi-zimb/psi-module",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "akvo/akvo-product-design",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 61,
     "forks_count": 8
   },
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "alt-code/Research",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "coopcycle/coopcycle-app",
-    "stargazers_count": 116,
-    "open_issues_count": 141,
+    "stargazers_count": 122,
+    "open_issues_count": 140,
     "forks_count": 27
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "foodcoops/foodsoft",
-    "stargazers_count": 247,
-    "open_issues_count": 204,
-    "forks_count": 127
+    "stargazers_count": 248,
+    "open_issues_count": 203,
+    "forks_count": 130
   },
   {
     "full_name": "openspending/community.openspending.org",
@@ -91,91 +91,91 @@
   },
   {
     "full_name": "serverless-nextjs/serverless-next.js",
-    "stargazers_count": 2900,
-    "open_issues_count": 123,
-    "forks_count": 347
+    "stargazers_count": 2979,
+    "open_issues_count": 150,
+    "forks_count": 355
   },
   {
     "full_name": "ZihanWangKi/XClass",
-    "stargazers_count": 26,
-    "open_issues_count": 1,
-    "forks_count": 6
+    "stargazers_count": 33,
+    "open_issues_count": 0,
+    "forks_count": 7
   },
   {
     "full_name": "vmware-tanzu/community-edition",
-    "stargazers_count": 829,
-    "open_issues_count": 263,
-    "forks_count": 122
+    "stargazers_count": 855,
+    "open_issues_count": 275,
+    "forks_count": 137
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 60333,
+    "stargazers_count": 61014,
     "open_issues_count": 50,
-    "forks_count": 7702
+    "forks_count": 7827
   },
   {
     "full_name": "humhub/humhub",
-    "stargazers_count": 5569,
-    "open_issues_count": 542,
+    "stargazers_count": 5585,
+    "open_issues_count": 550,
     "forks_count": 1576
   },
   {
     "full_name": "dypsilon/frontend-dev-bookmarks",
-    "stargazers_count": 32830,
-    "open_issues_count": 114,
-    "forks_count": 4835
+    "stargazers_count": 32939,
+    "open_issues_count": 115,
+    "forks_count": 4848
   },
   {
     "full_name": "andreasbm/web-skills",
-    "stargazers_count": 5028,
-    "open_issues_count": 42,
-    "forks_count": 507
+    "stargazers_count": 5114,
+    "open_issues_count": 43,
+    "forks_count": 515
   },
   {
     "full_name": "ukncsc/secure-development-and-deployment",
-    "stargazers_count": 377,
+    "stargazers_count": 382,
     "open_issues_count": 4,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 98417,
-    "open_issues_count": 197,
-    "forks_count": 10647
+    "stargazers_count": 100565,
+    "open_issues_count": 199,
+    "forks_count": 10856
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 33351,
-    "open_issues_count": 1,
-    "forks_count": 7654
+    "stargazers_count": 34057,
+    "open_issues_count": 0,
+    "forks_count": 7797
   },
   {
     "full_name": "romenrg/evergreen-skills-developers",
-    "stargazers_count": 1270,
+    "stargazers_count": 1291,
     "open_issues_count": 1,
     "forks_count": 94
   },
   {
     "full_name": "PharkMillups/beautiful-docs",
-    "stargazers_count": 7166,
+    "stargazers_count": 7233,
     "open_issues_count": 29,
-    "forks_count": 496
+    "forks_count": 503
   },
   {
     "full_name": "Kristories/awesome-guidelines",
-    "stargazers_count": 6345,
+    "stargazers_count": 6381,
     "open_issues_count": 0,
     "forks_count": 418
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 211504,
-    "open_issues_count": 37,
-    "forks_count": 45810
+    "stargazers_count": 216533,
+    "open_issues_count": 38,
+    "forks_count": 46509
   },
   {
     "full_name": "Gen-R/organisation",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   }
