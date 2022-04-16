@@ -1,9 +1,9 @@
 [
   {
     "full_name": "google/styleguide",
-    "stargazers_count": 30338,
+    "stargazers_count": 30358,
     "open_issues_count": 298,
-    "forks_count": 11996
+    "forks_count": 12013
   },
   {
     "full_name": "DevOpsandSRE/tech-resources",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "big-data-europe/docker-hadoop",
-    "stargazers_count": 1617,
-    "open_issues_count": 63,
-    "forks_count": 821
+    "stargazers_count": 1619,
+    "open_issues_count": 64,
+    "forks_count": 820
   },
   {
     "full_name": "Marcel-Jan/docker-hadoop-spark",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 0,
     "forks_count": 44
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "coopcycle/coopcycle-app",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 146,
     "forks_count": 28
   },
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "serverless-nextjs/serverless-next.js",
-    "stargazers_count": 3412,
-    "open_issues_count": 192,
+    "stargazers_count": 3429,
+    "open_issues_count": 193,
     "forks_count": 396
   },
   {
@@ -104,32 +104,32 @@
   {
     "full_name": "vmware-tanzu/community-edition",
     "stargazers_count": 1020,
-    "open_issues_count": 376,
-    "forks_count": 211
+    "open_issues_count": 367,
+    "forks_count": 213
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 66034,
+    "stargazers_count": 66099,
     "open_issues_count": 56,
-    "forks_count": 8819
+    "forks_count": 8826
   },
   {
     "full_name": "humhub/humhub",
-    "stargazers_count": 5665,
-    "open_issues_count": 553,
+    "stargazers_count": 5669,
+    "open_issues_count": 556,
     "forks_count": 1598
   },
   {
     "full_name": "dypsilon/frontend-dev-bookmarks",
-    "stargazers_count": 33516,
+    "stargazers_count": 33537,
     "open_issues_count": 114,
-    "forks_count": 4875
+    "forks_count": 4878
   },
   {
     "full_name": "andreasbm/web-skills",
-    "stargazers_count": 5714,
+    "stargazers_count": 5723,
     "open_issues_count": 47,
-    "forks_count": 577
+    "forks_count": 578
   },
   {
     "full_name": "ukncsc/secure-development-and-deployment",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 104948,
+    "stargazers_count": 105036,
     "open_issues_count": 210,
-    "forks_count": 11222
+    "forks_count": 11232
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 38048,
-    "open_issues_count": 1,
-    "forks_count": 8563
+    "stargazers_count": 38091,
+    "open_issues_count": 2,
+    "forks_count": 8572
   },
   {
     "full_name": "romenrg/evergreen-skills-developers",
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "PharkMillups/beautiful-docs",
-    "stargazers_count": 7540,
-    "open_issues_count": 26,
+    "stargazers_count": 7543,
+    "open_issues_count": 24,
     "forks_count": 533
   },
   {
     "full_name": "Kristories/awesome-guidelines",
-    "stargazers_count": 6536,
+    "stargazers_count": 6546,
     "open_issues_count": 0,
     "forks_count": 428
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 230428,
-    "open_issues_count": 32,
-    "forks_count": 48426
+    "stargazers_count": 230657,
+    "open_issues_count": 35,
+    "forks_count": 48458
   },
   {
     "full_name": "Gen-R/organisation",
